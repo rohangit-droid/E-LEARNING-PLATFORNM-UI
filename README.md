@@ -47,4 +47,6 @@ In conclusion, this e-learning platform UI is a visual prototype of an education
 #OUTPUT -  
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/238a8e1c-03e9-47cd-bcb3-904ce9cbd33d" />
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/24644098-8c7e-41cb-a590-4eb0c5e9ad14" />
+
 
